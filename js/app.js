@@ -6,4 +6,8 @@
             coordsEl.parentElement.classList.remove('invisible');
         });
     }
+<<<<<<< HEAD
 })();
+=======
+})();
+>>>>>>> d6e9ccb4b88236dc05cdddd4b67b755f0a20ea7e
